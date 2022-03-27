@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Giovanni Colucci
+  title: Software Engineer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email:
+  phone:
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website:
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: capa89k
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: capa89k
   stackoverflow:
   quora:
   goodreads:
@@ -28,10 +28,7 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
+  I love to create new things as if I had superpowers! As a software developer this is my mantra. I started working in the IT world on late 2006, I could say that I gained a fair experience, but I am still in search of new things to learn and apply.
     ...
 
 experiences:
