@@ -36,29 +36,17 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Full Stack Developer
+      time: 2016.10 - Now
+      company: iXemWine
+      tag: IoT, LoRaWAN
+      location: Turin
       details: |
-        Experience in this company:
-        + First
-        + Second
-
+        The iXemWine project aims to collect and share meteorological data acquired by many kind of sensors device located usually in farms.
+        My job was about building the platform used to acquire, save, show and analyze data collected by sensors.
+       
         ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        
 
 projects:
   display: true
@@ -99,30 +87,20 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: Politecnico di Torino
+      time: 2013 - 2016
+      major: Computer Engineering
       degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
+      details:
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Politecnico di Torino
+      time: 2008 - 2013
+      major: Computer Engineering
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+      details:
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -154,17 +132,17 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+    + 2008\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Italain
       level: Native
     - idiom: English
       level: Professional
